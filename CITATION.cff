@@ -23,7 +23,7 @@ authors:
 date-released: "2026-09-05"
 license: CC-BY-4.0
 doi: "10.5281/zenodo.23074709"
-# url: to be filled with the released code repository URL
+url: "https://anonymous.4open.science/r/HyloFrac"
 keywords:
   - 3D reassembly
   - fracture

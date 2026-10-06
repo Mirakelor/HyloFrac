@@ -92,8 +92,8 @@ README for the layout and the containers.
 ## Distribution
 
 - Dataset released on Zenodo: DOI [10.5281/zenodo.23074709](https://doi.org/10.5281/zenodo.23074709).
-- Code on GitHub (MIT): [github.com/ORG/HyloFrac](https://github.com/ORG/HyloFrac),
-  mirrored at Anonymous GitHub for peer review.
+- Code (MIT), anonymized mirror for peer review:
+  [anonymous.4open.science/r/HyloFrac](https://anonymous.4open.science/r/HyloFrac).
 - Released material licence: CC-BY 4.0 - the fracture geometry, annotations,
   splits, configuration list and documentation produced for this dataset.
 - Source surface models: third-party and **not** covered by CC-BY 4.0. All 154

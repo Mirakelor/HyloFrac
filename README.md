@@ -102,7 +102,7 @@ If you use HyloFrac, please cite:
   year      = {2026},
   publisher = {Zenodo},
   doi       = {10.5281/zenodo.23074709},
-  url       = {https://github.com/ORG/HyloFrac}
+  url       = {https://anonymous.4open.science/r/HyloFrac}
 }
 ```
 
