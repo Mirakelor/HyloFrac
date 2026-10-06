@@ -1,0 +1,24 @@
+# Python build and cache artefacts
+__pycache__/
+*.py[cod]
+*.egg-info/
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+build/
+dist/
+
+# Environments
+.venv/
+venv/
+env/
+
+# Editors / OS
+.vscode/
+.idea/
+.DS_Store
+
+# Runs and data produced by the toolchain (top-level only, so that the
+# src/hylofrac/dataset package is not ignored)
+/runs/
+/dataset/

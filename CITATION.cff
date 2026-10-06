@@ -1,0 +1,32 @@
+cff-version: 1.2.0
+message: "If you use HyloFrac in your research, please cite it as follows. The material produced for this dataset is released under CC BY 4.0; the code in this repository is released under the MIT licence (see LICENSE); the source CT surface models are third-party material, are not covered by CC BY 4.0, and remain subject to the per-object MorphoSource terms recorded in the dataset ATTRIBUTION file."
+title: "HyloFrac: Physically simulated fracture scenes of gibbon crania and mandibles for 3D fragment reassembly"
+authors:
+  - family-names: Rong
+    given-names: Zetao
+    affiliation: "Fudan University, Shanghai, China"
+  - family-names: Wang
+    given-names: Ziyi
+    affiliation: "Fudan University, Shanghai, China"
+  - family-names: Mo
+    given-names: Kailin
+    affiliation: "Fudan University, Shanghai, China"
+  - family-names: Shi
+    given-names: Xinling
+    affiliation: "Fudan University, Shanghai, China"
+  - family-names: You
+    given-names: Junlan
+    affiliation: "Fudan University, Shanghai, China"
+  - family-names: Wei
+    given-names: Pianpian
+    affiliation: "Fudan University, Shanghai, China"
+date-released: "2026-09-05"
+license: CC-BY-4.0
+doi: "10.5281/zenodo.23074709"
+# url: to be filled with the released code repository URL
+keywords:
+  - 3D reassembly
+  - fracture
+  - benchmark
+  - point cloud
+  - MPM simulation
